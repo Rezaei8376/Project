@@ -1,0 +1,6 @@
+F:\program files\Dev c++\New folder\Takalif\Proje Sodoko\Projeye_Sudoku\Projeye_Sudoku\bin\Debug\Projeye_Sudoku.exe.config
+F:\program files\Dev c++\New folder\Takalif\Proje Sodoko\Projeye_Sudoku\Projeye_Sudoku\bin\Debug\Projeye_Sudoku.exe
+F:\program files\Dev c++\New folder\Takalif\Proje Sodoko\Projeye_Sudoku\Projeye_Sudoku\bin\Debug\Projeye_Sudoku.pdb
+F:\program files\Dev c++\New folder\Takalif\Proje Sodoko\Projeye_Sudoku\Projeye_Sudoku\obj\Debug\Projeye_Sudoku.csprojResolveAssemblyReference.cache
+F:\program files\Dev c++\New folder\Takalif\Proje Sodoko\Projeye_Sudoku\Projeye_Sudoku\obj\Debug\Projeye_Sudoku.exe
+F:\program files\Dev c++\New folder\Takalif\Proje Sodoko\Projeye_Sudoku\Projeye_Sudoku\obj\Debug\Projeye_Sudoku.pdb
